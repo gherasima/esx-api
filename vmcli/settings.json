@@ -1,0 +1,18 @@
+{
+  "VI_SERVER": "10.10.1.1",
+  "VI_USERNAME": "root",
+  "VI_PROTOCOL": "https",
+  "VI_PASSWORD": "password",
+  "VI_THUMBPRINT": "E5:29:8D:60:EC:DA:5A:27:A9:BC:11:28:FE:01:84:36:11:CE:C4:11",
+  "DATASTORE_PATH": "/vmfs/volumes/14441c8c-4185dx51/",
+  "VM_LIST_MASTER_FIRST": [
+	"VM3",
+	"VM2",
+	"VM1"
+  ],
+  "VM_LIST_MASTER_LAST": [
+	"VM1",
+	"VM2",
+	"VM3"
+  ]
+}
